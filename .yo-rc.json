@@ -1,0 +1,23 @@
+{
+  "generator-ngx-library": {
+    "authorName": "Justin Grayston",
+    "authorEmail": "justin.grayston@psycle.com",
+    "githubUsername": "asdf",
+    "projectName": "my-ngx-library",
+    "projectVersion": "0.0.1",
+    "projectDescription": "Angular library built with ❤ using ngx-library yeoman generator.",
+    "projectKeywords": [
+      "ng",
+      "angular",
+      "library"
+    ],
+    "ngPrefix": "my-lib",
+    "ngVersion": "4.0.0",
+    "ngModules": [
+      "core",
+      "common"
+    ],
+    "useGreenkeeper": true,
+    "useCompodoc": false
+  }
+}
